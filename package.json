@@ -3,7 +3,7 @@
   "dependencies": {
     "chokidar-cli": "^2.0.0",
     "execa": "^3.4.0",
-    "fs-extra": "^8.1.0",
+    "fs-extra": "^9.0.0",
     "ejs": "^3.0.1",
     "less": "^3.10.3",
     "luxon": "^1.19.3",
